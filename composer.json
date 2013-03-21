@@ -1,5 +1,5 @@
 {
-    "name": "irmnet/dp",
+    "name": "irmnet/hse",
     "description": "Compras module for IRMServices intranet.", 
     "keywords": [
     "framework",
@@ -13,7 +13,7 @@
     },
     "autoload":{
         "psr-0":{
-            "DP":"src"
+            "HSE":"src"
         },
         "classmap": ["Module.php"]
     }
